@@ -1,6 +1,5 @@
 
 📊 Análise Experimental de Algoritmos de Ordenação
-📖 Sobre o Projeto
 
 Este repositório contém o trabalho desenvolvido para a disciplina de **Projeto e Análise de Algoritmos**, do curso de Ciencia da Computação da **Universidade Federal do Ceará (UFC) - Campus de Russas**.
 
